@@ -1,0 +1,8 @@
+model_name,protein_size,qmean4_zscore,qmean4_norm,qmeandisco
+5VFY_A.pdb,102,-1.1,0.74,0.93
+3H6X_A.pdb,125,-1.07,0.73,0.73
+5XBU_A.pdb,179,2.15,0.87,0.98
+3VU0_B.pdb,154,-0.25,0.77,0.71
+5T0F_B.pdb,32,-0.46,0.71,0.57
+8INI_A.pdb,95,0.12,0.8,0.94
+2FDN_A.pdb,55,-0.69,0.73,0.84
